@@ -9,6 +9,7 @@ package student;
  *this is commment added
  * @author Ronak
  */
+/* new thing addes */
 public class Student {
        private String name;
        private String address;
